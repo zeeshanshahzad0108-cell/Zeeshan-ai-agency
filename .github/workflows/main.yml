@@ -1,0 +1,23 @@
+name: Run Stark AI Employee Daily
+
+on:
+  schedule:
+    # Yeh loop roz subah Pakistan ke time ke mutabiq automatic chale ga
+    - cron: '0 4 * * *' 
+  workflow_dispatch: # Is se aap phone se jab chahein manual bhi run kar sakte hain
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run AI Employee
+        run: python bot.py
+        
