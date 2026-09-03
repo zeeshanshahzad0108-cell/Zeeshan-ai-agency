@@ -9,7 +9,7 @@ print("=" * 60)
 
 # ⚠️ SETTINGS: Aap ka Gmail aur Google App Password (Neeche seekhein kaise banana hai)
 SENDER_EMAIL = "zeeshanshahzad0108@gmail.com" 
-APP_PASSWORD = "xxxx xxxx xxxx xxxx" 
+APP_PASSWORD = "ysqs bhcg lreu ccgs" 
 
 # Active international high-ticket client base
 verified_global_leads = [
