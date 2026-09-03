@@ -11,11 +11,20 @@ print("=" * 60)
 SENDER_EMAIL = "zeeshanshahzad0108@gmail.com" 
 APP_PASSWORD = "nklc wthy fjwc qmsm" 
 
+# 🟢 ASLI WORKING ENGINES (Testing aur response check karne ke liye)
 verified_global_leads = [
-    {"company": "Apex UK Digital", "ceo": "Thomas Wright", "email": "twright@apexukdigital.co.uk"},
-    {"company": "Vanguard Logistics US", "ceo": "Robert Vance", "email": "robert.vance@vanguardus.com"},
-    {"company": "Nexus Automation Services", "ceo": "Elena Rostova", "email": "erostova@nexusautomation.io"}
+    {
+        "company": "Stark Global Support", 
+        "ceo": "Validation Node", 
+        "email": "apna_koi_doosra_email@gmail.com"  # 👈 Yahan apne kisi dost ka ya apna doosra Gmail likhein taake live check ho sake ke email aayi ya nahi!
+    },
+    {
+        "company": "Echo Test Services", 
+        "ceo": "Mail Tester Node", 
+        "email": "test@mail-tester.com"  # 👈 Yeh internet ki official live inbox testing service hai
+    }
 ]
+
 
 def send_autonomous_email(lead):
     try:
