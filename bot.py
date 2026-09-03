@@ -9,7 +9,7 @@ print("=" * 60)
 
 # ⚠️ SETTINGS: Apni details yahan sahi se enter karein
 SENDER_EMAIL = "zeeshanshahzad0108@gmail.com" 
-APP_PASSWORD = "xxxx xxxx xxxx xxxx" 
+APP_PASSWORD = "‎ysqs bhcg lreu ccgs" 
 
 verified_global_leads = [
     {"company": "Apex UK Digital", "ceo": "Thomas Wright", "email": "twright@apexukdigital.co.uk"},
