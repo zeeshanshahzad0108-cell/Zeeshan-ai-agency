@@ -9,7 +9,7 @@ print("=" * 60)
 
 # ⚠️ SETTINGS: Apni Gmail details aur App Password yahan sahi lagayein
 SENDER_EMAIL = "zeeshanshahzad0108@gmail.com" 
-APP_PASSWORD = "xxxx xxxx xxxx xxxx" 
+APP_PASSWORD = "nklc wthy fjwc qmsm" 
 
 # 🌍 ASLI & VERIFIED INTERNATIONAL LEADS (Bina network scrape ke direct injection)
 # In mein se pehli entry ko aap ke hi doosre email par bheja jaye ga live verification ke liye!
